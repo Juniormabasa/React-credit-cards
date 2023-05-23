@@ -1,0 +1,11 @@
+.main{
+    margin: auto;
+    width: 200px;
+}
+
+input{
+    width: 270px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 10px;
+}
